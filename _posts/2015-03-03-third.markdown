@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Beautiful Colorado"
+date:   2015-03-03 18:27:00
+categories: jekyll update
+siteVariable: test-class
+---
+
+<h4>Ski Vacation Destination Guide: Vail, America's Biggest Ski Resort</h4>
+<!-- <img scr="../images/01.jpg" alt="colorado"> -->
+Due to a high level of interest in previous winter ski vacation stories, I’m planning a series of detailed destination guides to some of the top resorts – those I know best – for this winter. As Thanksgiving looms so does the start of ski travel planning season. Click here to read my previous story on the 10 Best Ski Resorts for Families and click here to read my story on the Best Kept Secret in U.S. Heli-Skiing.
+
+I’ve been covering skiing and ski travel for more than 15 years and have been to almost every major destination resort in this country, and many more around the world. For this series I am only focusing on those that I have visited recently and visited multiple times, in order to give an informed overview with some insider perspective.
+
+It makes a lot of sense to start with Vail, Colorado, since it is the largest resort in the country, usually the most visited US ski resort, and generally excels at almost every element you could want in a ski vacation. There is plenty of terrain and plenty of variety of terrain, great dining, great shopping, lots of après ski and non-ski activities, and probably the best assortment of high quality lodging of any North American ski resort. With a very large and self-contained pedestrian friendly village, Vail is a place where you can easily spend an entire week car free. When people I don’t know well ask me where they should go, Vail is the easy answer because it rarely disappoints. If you have more specific passions, like the most aggressive terrain, easy access to backcountry skiing, a bargain vacation, crowd free escapist experience, or want to cross skiing with a cowboy aesthetic, there are other top choices and I will get to those in the coming weeks and months. But as a well-rounded ski vacation star, it’s hard to top Vail – and it’s the resort’s 50th birthday! That means the resort will be hosting a calendar full of special events all season long.
+
+
+<!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets: -->
+
+<!-- {% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %} -->
+
+<!-- Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help -->
