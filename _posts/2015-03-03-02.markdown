@@ -4,9 +4,9 @@ title:  "St Moritz, Switzerland. Love this town!"
 date:   2015-03-03 15:22:00
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<h4>My first experience with using JEKYLL</h4>
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+It was confusing to understand documentation however once I learned how to use it I think I can use it. When it comes to posting a picture, I learned I have to call a right path.
 
 Jekyll also offers powerful support for code snippets:
 
