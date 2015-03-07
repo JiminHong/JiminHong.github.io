@@ -9,3 +9,19 @@ I have downloaded boilerplate and compass. Also, I learned how to modify design 
 
 1. When I make a scss file, I have to remember to add underscore before the file name. Once I make a scss, I need to import the file in main scss file such as main.scss or screen.scss. For example, @import "mixins";
 
+2. Instead of doing 'clear:both' to clear the float, I made a mixins partial. I put this in the mixins partial which is _mixins.scss.
+
+@mixin clearfix {
+
+	&:after{
+
+	content:"";
+
+	display: table;
+
+	clear: both;
+
+	}
+
+}
+
