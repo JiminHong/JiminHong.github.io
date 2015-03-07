@@ -5,5 +5,7 @@ date:   2015-03-07 13:28:00
 categories: jekyll update
 ---
 
-I have downloaded boilerplate and learned how to modify design by using sass. 
+I have downloaded boilerplate and compass. Also, I learned how to modify design by using sass. 
+
+1. When I make a scss file, I have to remember to add underscore before the file name. Once I make a scss, I need to import the file in main scss file such as main.scss or screen.scss. For example, @import "mixins";
 
