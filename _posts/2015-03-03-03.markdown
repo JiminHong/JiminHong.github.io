@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Sass"
+date:   2015-03-07 13:28:00
+categories: jekyll update
+---
+
+I have downloaded boilerplate and learned how to modify design by using sass. 
+

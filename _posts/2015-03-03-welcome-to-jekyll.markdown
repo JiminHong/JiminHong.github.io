@@ -6,9 +6,17 @@ categories: jekyll update
 siteVariable: test-class
 ---
 
-Perhaps it is natural that so picturesque a personality as John Muir should become a magnet for legends. Several are already afloat in the Valley he loved, and two of them are particularly baseless and absurd. The first is a canard about a sawmill by means of which he is said to have denuded the Valley of trees. It was a tale set afoot during the Hetch Hetchy controversy when his opponents were only too anxious to discredit him in the eyes of the public. The fact that Muir sawed only fallen timber has already been set forth in another connection and requires no further statement. The second concerns the place of his former habitation in the Valley. It owes its origin, no doubt, to the desire of local guides to gratify the curiosity of visitors who wish to see some particular spot that has associations with John Muir.
+<h2>Clinic: Practice Makes Perfect</h2>
 
-In a secluded, umbrageous tangle of alders and azaleas, on the spit of land formed by the confluence of Tenaya Creek with the Merced, stands what at first glance looks like the remnants of a log cabin. Examination reveals the fact that there never had been a floor or windows; that it was never more than partly roofed and too low for a man to stand comfortably erect, while the opening which should serve as a door is only three feet high. It is all that remains of the sheep corral of John Lamon, the earliest inhabitant of the Valley. The myth-making faculty of the local guide has glorified it as "Muir's Lost Cabin," and as such it has been pointed out to great numbers of eager sight-seers.
+<h3>Take these tips from Mikaela's form:</h3>
+
+<ul>
+	<li>Shoulders square: Notice that Shiffrin’s left hand hasn’t crossed the center of her body. This keeps her from over-rotating her shoulders, which could cause her outside ski to skid.</li>
+	<li>Level the shoulders: Keeping your shoulders as level as possible when your skis are in the fall line keeps you balanced against the forces of a carved turn. </li>
+	<li>Bend and straighten: Allow your legs to flex independently at different places during the turn. Bending your inside leg promotes moving your body inside the turn. </li>
+	<li>Move inside foot out: Try to get your inside foot out from under your body. Think about aligning your inside ankle directly beneath the knee of your outside leg. </li>
+	<li>Stand hard: Stay committed to the outside ski right through the fall line. Notice how Shiffrin’s left ski—especially the front of it—is solidly pressured and bent into an arc. </li>
+</ul>
 
 
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
