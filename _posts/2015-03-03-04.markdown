@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "mixins"
+date:   2015-03-07 13:28:00
+categories: jekyll update
+---
+
+I learned how to mix things in. First of all, I have to make a mixin partial such as _mixins.scss. Secondly, I have to make mixins. For example,
+
+{% highlight ruby %}
+@mixin btn-theme($btn-color){
+	border-radius: darken($btn-color, 20%);
+	background-color: $btn-color;
+	&:hover{
+		background-color: darken($btn-color, 10%);
+	}
+}
+{% endhighlight %}
+
+And then I can use it in layout styling.
+
+For example,
+
+{% highlight ruby %}
+.follow_btn{
+    @include btn-theme($color-lightCoolGrey);
+}
+{% endhighlight %}

@@ -5,3 +5,52 @@
 		clear: both;
 	}
 }
+
+@mixin centerer{
+	margin: 0 auto;
+}
+
+@mixin btn-theme($btn-color){
+	border-radius: darken($btn-color, 20%);
+	background-color: $btn-color;
+	&:hover{
+		background-color: darken($btn-color, 10%);
+	}
+}
+
+@function calcRem($rem){
+	$remSize: $rem / 16px;
+	@return $remSize * 1rem;
+}
+
+@mixin font-size($size){
+	font-size: $size;
+	font-size: calcRem($size);
+}
+
+// BREAKPOINTS
+
+@mixin bp-large {
+  @media only screen and (max-width: 60em) {
+    @content;
+  }
+}
+
+@mixin bp-medium {
+  @media only screen and (max-width: 40em) {
+    @content;
+  }
+}
+
+@mixin bp-small {
+  @media only screen and (max-width: 30em) {
+    @content;
+  }
+}
+
+
+@mixin box-shadow($left:0, $top:2px, $blur:2px, $color:#000, $inset:"") {
+  -webkit-box-shadow:$left $top $blur $color #{$inset};
+  -moz-box-shadow:$left $top $blur $color #{$inset};
+  box-shadow:$left $top $blur $color #{$inset};
+}

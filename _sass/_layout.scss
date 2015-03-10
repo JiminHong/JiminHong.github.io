@@ -13,12 +13,16 @@
     width: 100%;
 }
 
+h1{
+    @include font-size(30px);
+}
 .site-title {
-    font-size: 26px;
+    //font-size: 26px;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    @include font-size(26px);
 
     &,
     &:visited {
@@ -105,10 +109,22 @@ a.site-title:hover{
 }
 
 .browser_ul{
+            @include clearfix;
             list-style-type: none;
             li{
-               float:left; 
+               float:left;
             }
+}
+
+.sidebar {
+  width: 48%;
+  float: left;
+  margin: 0 2% 0 0;
+  @include bp-small {
+    width: 100%;
+    float: none;
+    margin: 0;
+  }
 }
 
 /**
@@ -198,8 +214,19 @@ a.site-title:hover{
     list-style: none;
 
     > li {
+
         margin-bottom: $spacing-unit;
+        background-color: $color-lightCoolGrey;
+        @include border-radius(5px);
     }
+    > li:first-child {
+      @include box-shadow();
+        background-color: $color-lightGrey;
+    }
+}
+
+.follow_btn{
+    @include btn-theme($color-lightCoolGrey);
 }
 
 .post-meta {
@@ -228,6 +255,8 @@ a.post-link:hover{
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
+    width: 200px;
+    @include centerer;
 
     @include media-query($on-laptop) {
         font-size: 36px;

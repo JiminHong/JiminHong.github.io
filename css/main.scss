@@ -46,8 +46,12 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+		"mixins",
+		"variables",
+		"borders",
         "base",
         "layout",
         "syntax-highlighting",
         "fonts"
+        
 ;
