@@ -6,4 +6,3 @@ categories: jekyll update
 ---
 
 It was confusing to understand documentation however once I learned how to use it I think I can use it. When it comes to posting a picture, I learned I have to call a right path.
-

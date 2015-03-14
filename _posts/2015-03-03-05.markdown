@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Building Community_Karen McGrane"
+date:   2015-03-12 13:00:00
+categories: jekyll update
+---
+
+•	What area do they specialize in?
+UX expert
+
+•	Where do they work now, and where did they work before this?
+Currently managing partner of Bond Art + Science, she is also the author of Content Strategy for Mobile.
+
+•	Do they have a blog?
+http://karenmcgrane.com/
+
+•	Do they have a github, twitter, or facebook professional presence?
+https://twitter.com/karenmcgrane
+
+•	What are some of their popular posts, books, or conference talks?
+http://blogs.hbr.org/cs/2013/06/dont_let_paper_paradigms_drive.html

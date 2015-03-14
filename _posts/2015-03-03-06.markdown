@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Lab5"
+date:   2015-03-13 20:14:00
+categories: jekyll update
+---
+# Croissant Gourmet
+
+## 1. Getting information
+
+|-------------|:-----------------:|
+| **Address**    |120 East Morse Blvd, Winter Park, Florida 32792 |
+| **Hours**      |Mon - Sun:6:30 am - 6:00 pm   |
+| **Short Description** |           Bon Apetite! |
+| **Long Description**  |We are a French bakery specializing in                 fresh hand made pastries and baked goods. Also serving made to order sandwiches served on either our handmade croissants or our handmade baguettes.|
+| **Cuisine** |Breakfast, Brunch, Creperies, French, Sandwiches and Vegetarian |
+| **Parking** |Street |
+| **Attire** |Casual |
+| **Payment Methods** |Visa, Mastercard and Discover |
+| **Services** |Takes Reservations, Walk-Ins Welcome, Good For Groups, Good For Kids, Take Out, Catering, Waiter Service and Outdoor Seating |
+| **Specialities** |Breakfast, Lunch, Dinner, Coffee and Drinks |
+| **Phone** |(407) 622-7753 |
+| **Email** |Francois@croissantgourmet.com |
+| **Website** |http://www.croissantgourmet.com/ |
+
+## 2. Create wireframe
+
+## 3. Code
