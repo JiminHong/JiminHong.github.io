@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "[LOCAL BUSINESS WEBSITE PROJECT] Business Selection"
+date:   2015-03-13 20:14:00
+categories: jekyll update
+---
+
+## 1. Two businesses you would like to build a site around.
+
+1. Sleeping Moon - Cafe in Winter Park
+2. Croissant Gourmet - Bakery and Brunch Cafe
+
+## 2. For each business, write why you are interested in creating a site for this business.
+
+1. Sleeping Moon - It is very interesting cafe because they are not only selling coffee but artworks. In addition, they do performance sometimes. 
+
+2. Croissant Gourmet - It is my favorite local bakery shop. They have a website but it is not well-organized. So, I chose this local company for my project. 
