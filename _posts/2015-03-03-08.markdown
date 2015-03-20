@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Lab6"
+date:   2015-03-19 20:14:00
+categories: jekyll update
+---
+
+## Lab 6: Information Architecture and SEO
+
+### Information Architecture
+
+Navigation should:
+
+*Be easy to learn.
+
+*Be consistent throughout the website.
+
+*Provide feedback, such as the use of breadcrumbs to indicate how to navigate back to where the user started.
+
+*Use the minimum number of clicks to arrive at the next destination.
+
+*Use clear and intuitive labels, based on the user’s perspective and terminology.
+
+*Support user tasks.
+
+*Have each link be distinct from other links.
+
+*Group navigation into logical units.
+
+*Avoid making the user scroll to get to important navigation or submit buttons.
+
+*Not disable the browser’s back button.
+
+### 5 Essential SEO Techniques To Master In 2015
+
+1. Map Strategy To Audience & Competitive Insights
+
+2. Align Your Content & SEO Teams
+
+3. Make Mobile SEO A Priority
+
+4. Find Measurement & Reporting That Works
+
+5. Integrate SEO Data Across Teams
