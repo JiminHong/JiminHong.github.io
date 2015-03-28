@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Lab6"
+date:   2015-03-27 20:14:00
+categories: jekyll update
+---
+
+## Lab 6: SVG
+
+### SVG
+
+In lab, I mostly research on SVG in CSS tricks. Here are steps I have to take for SVG.
+
+1. I have to either download or make SVG. (When I make my own Vector image, I have to export it as SVG.)
+
+2. I add SVG codes in <head>.
+
+3. Add <svg> in html.
+
+4. Add class of it.
+
+5. Size the SVG in css by using class of it.

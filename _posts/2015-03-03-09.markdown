@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Lab6"
+date:   2015-03-25 20:14:00
+categories: jekyll update
+---
+
+## Lab 6: Google Analytics
+
+### Google Analytics
+
+I read about "Why Google Analytics". There are three big reasons to use Google Analytics. First of all, I can build my audience. Customers are using not only desktop but tablet and mobile which means they are everywhere. Google Analytics shows me the full customer picture across ads and videos, websites and social tools, tablets and smartphones. By using Google Analytics I can trace my customer.
+
+Google Analytics makes me reach my performace goal. Google Analytics has the latest in full-credit measurement, so I see where people take on the road to action. The result: a measurable way to improve campaigns and reach new audiences as they go through their days.
+
+Google Analytics gives me insights I can turn into real results: from choosing the right benchmarks and content to testing channel and campaign performance. It lets me test, adapt, suceed and repeat.
