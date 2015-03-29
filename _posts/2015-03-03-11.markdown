@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Postmortem"
+date:   2015-03-27 20:14:00
+categories: jekyll update
+---
+
+## Postmortem
+
+I struggles with many activities and I think it was great experience to do. To get used to with new languages and programs I enjoyed breaking codes and fixing them.
+I love using SASS and I think I will use it for my final project and portfolio.
